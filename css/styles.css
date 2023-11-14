@@ -88,7 +88,6 @@ body {
 .hero-button {
     color: #FFFFFF;
     background-color: #4D5AE5;
-    box-shadow: rgba(0, 0, 0, 0.15);
     cursor: pointer;   
     font-size: 16px;
     font-weight: 500;
