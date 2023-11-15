@@ -21,18 +21,13 @@ body {
     font-family: Raleway, sans-serif;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     }
 
 .header-logo-studio {
     color: #2E2F42;
-    font-family: Raleway, sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
+    
 }
 
 
@@ -41,7 +36,7 @@ body {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5; 
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .menu-link:hover,
@@ -61,7 +56,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .contacts-link:hover, 
@@ -82,7 +77,7 @@ body {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
 }
 
 .hero-button {
@@ -92,7 +87,7 @@ body {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
 }
 
 .hero-button:hover,
@@ -110,14 +105,14 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; 
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 .advantages-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 /* ---------- /ADVANTAGES ---------- */
@@ -138,7 +133,7 @@ body {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -148,14 +143,14 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 .team-desc {
     text-align: center;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 /* -------- / TEAM ------------- */
@@ -169,7 +164,7 @@ body {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -178,14 +173,14 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 .works-desc {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 /* ---------- / PORTFOLIO --------  */
@@ -198,13 +193,6 @@ body {
 
 .footer-logo-studio {
     color: #F4F4FD;
-    font-family: Raleway, sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
-    
 }
 
 .footer-logo-link {
@@ -213,7 +201,7 @@ body {
     font-family: Raleway, sans-serif;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -221,6 +209,6 @@ body {
     color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
